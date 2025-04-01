@@ -1,2 +1,2 @@
 # learninggit
-this repository is meant just for learning basics and practicing them
+this repository is meant just for learning basics and practicing.
